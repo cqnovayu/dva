@@ -173,6 +173,9 @@ dispatch({
 })
 ```
 
+
+
+
 dispatch 方法从哪里来？被 connect 的 Component 会自动在 props 中拥有 dispatch 方法。
 
 > connect 的数据从哪里来? 
